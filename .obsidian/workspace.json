@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8708c1c258ebcef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Helm.md",
+                "file": "1 Glpi/Installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Helm.md",
+                "file": "1 Glpi/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Helm.md",
+                "file": "1 Glpi/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Helm.md"
+                "file": "1 Glpi/Installation.md"
               }
             }
           }
@@ -159,25 +146,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8708c1c258ebcef5",
+  "active": "81ae1d50c0e15327",
   "lastOpenFiles": [
+    "1 Glpi/Service.md",
+    "1 Glpi/Ingress.md",
+    "1 Glpi/Deployment.md",
+    "1 Glpi/Installation.md",
+    "0 Kubernetes/Services.md",
+    "0 Kubernetes/Intro.md",
+    "1 Glpi",
+    "0 Kubernetes/Helm.md",
     "Welcome.md",
-    "Kubernetes/Helm.md",
-    "Kubernetes/Storage.md",
-    "Kubernetes/Ingress.md",
-    "Kubernetes/Services.md",
+    "0 Kubernetes/Storage.md",
+    "0 Kubernetes/Ingress.md",
     "Pictures/Ingress.png",
     "Pictures/ingress.png",
-    "Kubernetes/Pods.md",
+    "0 Kubernetes/Pods.md",
     "Pictures/Load-Balancer.jpg",
-    "Kubernetes/Namespaces.md",
-    "Kubernetes/Deployments.md",
-    "Kubernetes/Replica Set.md",
-    "Kubernetes/Intro.md",
+    "0 Kubernetes/Namespaces.md",
+    "0 Kubernetes/Deployments.md",
+    "0 Kubernetes/Replica Set.md",
     "Deployments",
     "Pictures/What-is-a-Pod.png",
     "Pictures/What-is-kubernetes.png",
     "Pictures",
-    "Kubernetes"
+    "0 Kubernetes"
   ]
 }
